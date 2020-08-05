@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="24" passed="24" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-01T12:16:16 IST" name="Suite" finished-at="2020-07-01T12:18:23 IST" duration-ms="126686">
+    <groups>
+    </groups>
+    <test started-at="2020-07-01T12:16:16 IST" name="Test" finished-at="2020-07-01T12:18:23 IST" duration-ms="126686">
+      <class name="Package_Automation.Amazon_mail">
+        <test-method signature="Login1()[pri:1, instance:Package_Automation.Amazon_mail@609db43b]" started-at="2020-07-01T12:16:27 IST" name="Login1" finished-at="2020-07-01T12:16:47 IST" duration-ms="20584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login1 -->
+        <test-method signature="Your_listicon()[pri:2, instance:Package_Automation.Amazon_mail@609db43b]" started-at="2020-07-01T12:17:14 IST" name="Your_listicon" finished-at="2020-07-01T12:17:17 IST" duration-ms="3586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Your_listicon -->
+        <test-method signature="create_listbutton()[pri:3, instance:Package_Automation.Amazon_mail@609db43b]" started-at="2020-07-01T12:17:32 IST" name="create_listbutton" finished-at="2020-07-01T12:17:32 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_listbutton -->
+        <test-method signature="send_list()[pri:4, instance:Package_Automation.Amazon_mail@609db43b]" started-at="2020-07-01T12:17:49 IST" name="send_list" finished-at="2020-07-01T12:17:50 IST" duration-ms="1321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send_list -->
+        <test-method signature="gmail()[pri:5, instance:Package_Automation.Amazon_mail@609db43b]" started-at="2020-07-01T12:17:55 IST" name="gmail" finished-at="2020-07-01T12:17:58 IST" duration-ms="3117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmail -->
+        <test-method signature="send()[pri:6, instance:Package_Automation.Amazon_mail@609db43b]" started-at="2020-07-01T12:18:09 IST" name="send" finished-at="2020-07-01T12:18:21 IST" duration-ms="11710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- send -->
+      </class> <!-- Package_Automation.Amazon_mail -->
+      <class name="Package_Automation.Amazon_sort">
+        <test-method signature="Login()[pri:1, instance:Package_Automation.Amazon_sort@c03cf28]" started-at="2020-07-01T12:16:16 IST" name="Login" finished-at="2020-07-01T12:16:27 IST" duration-ms="10323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Today_deal()[pri:2, instance:Package_Automation.Amazon_sort@c03cf28]" started-at="2020-07-01T12:17:10 IST" name="Today_deal" finished-at="2020-07-01T12:17:14 IST" duration-ms="3948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Today_deal -->
+        <test-method signature="Filter()[pri:3, instance:Package_Automation.Amazon_sort@c03cf28]" started-at="2020-07-01T12:17:27 IST" name="Filter" finished-at="2020-07-01T12:17:28 IST" duration-ms="980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filter -->
+        <test-method signature="sort_option()[pri:4, instance:Package_Automation.Amazon_sort@c03cf28]" started-at="2020-07-01T12:17:50 IST" name="sort_option" finished-at="2020-07-01T12:17:51 IST" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort_option -->
+        <test-method signature="verify_sort()[pri:5, instance:Package_Automation.Amazon_sort@c03cf28]" started-at="2020-07-01T12:17:58 IST" name="verify_sort" finished-at="2020-07-01T12:17:58 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_sort -->
+        <test-method signature="tear_down()[pri:6, instance:Package_Automation.Amazon_sort@c03cf28]" started-at="2020-07-01T12:18:21 IST" name="tear_down" finished-at="2020-07-01T12:18:22 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- Package_Automation.Amazon_sort -->
+      <class name="Package_Automation.Ease_trip">
+        <test-method signature="setup()[pri:1, instance:Package_Automation.Ease_trip@1356d4d4]" started-at="2020-07-01T12:16:57 IST" name="setup" finished-at="2020-07-01T12:17:10 IST" duration-ms="12904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_homepage()[pri:2, instance:Package_Automation.Ease_trip@1356d4d4]" started-at="2020-07-01T12:17:27 IST" name="verify_homepage" finished-at="2020-07-01T12:17:27 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_homepage -->
+        <test-method signature="Flights()[pri:3, instance:Package_Automation.Ease_trip@1356d4d4]" started-at="2020-07-01T12:17:28 IST" name="Flights" finished-at="2020-07-01T12:17:32 IST" duration-ms="3837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flights -->
+        <test-method signature="details()[pri:4, instance:Package_Automation.Ease_trip@1356d4d4]" started-at="2020-07-01T12:17:34 IST" name="details" finished-at="2020-07-01T12:17:49 IST" duration-ms="15120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="filters()[pri:5, instance:Package_Automation.Ease_trip@1356d4d4]" started-at="2020-07-01T12:17:53 IST" name="filters" finished-at="2020-07-01T12:17:55 IST" duration-ms="1587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filters -->
+        <test-method signature="get_list()[pri:6, instance:Package_Automation.Ease_trip@1356d4d4]" started-at="2020-07-01T12:18:09 IST" name="get_list" finished-at="2020-07-01T12:18:09 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_list -->
+        <test-method signature="tear_down()[pri:7, instance:Package_Automation.Ease_trip@1356d4d4]" started-at="2020-07-01T12:18:22 IST" name="tear_down" finished-at="2020-07-01T12:18:23 IST" duration-ms="1302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- Package_Automation.Ease_trip -->
+      <class name="Package_Automation.Formsite_csv">
+        <test-method signature="setup()[pri:1, instance:Package_Automation.Formsite_csv@55f616cf]" started-at="2020-07-01T12:16:47 IST" name="setup" finished-at="2020-07-01T12:16:57 IST" duration-ms="9816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signup()[pri:2, instance:Package_Automation.Formsite_csv@55f616cf]" started-at="2020-07-01T12:17:17 IST" name="signup" finished-at="2020-07-01T12:17:27 IST" duration-ms="9738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method signature="Title_verify()[pri:4, instance:Package_Automation.Formsite_csv@55f616cf]" started-at="2020-07-01T12:17:32 IST" name="Title_verify" finished-at="2020-07-01T12:17:34 IST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title_verify -->
+        <test-method signature="Billing_selection()[pri:5, instance:Package_Automation.Formsite_csv@55f616cf]" started-at="2020-07-01T12:17:51 IST" name="Billing_selection" finished-at="2020-07-01T12:17:53 IST" duration-ms="2815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Billing_selection -->
+        <test-method signature="Get_list()[pri:6, instance:Package_Automation.Formsite_csv@55f616cf]" started-at="2020-07-01T12:17:58 IST" name="Get_list" finished-at="2020-07-01T12:18:09 IST" duration-ms="10682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_list -->
+      </class> <!-- Package_Automation.Formsite_csv -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
