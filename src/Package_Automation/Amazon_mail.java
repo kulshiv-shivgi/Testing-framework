@@ -45,6 +45,7 @@ static WebDriver driver;
 		actions.moveToElement(target).perform();
 		
 		System.out.println("Clicked on Accounts and Lists");
+		System.out.println("Clicked on Accounts and Lists");
 
 		// Click on "Your Wish List"
 		driver.findElement(By.xpath("//*[@class=\"nav-text\" and contains(text(),'Create a List')]")).click();
