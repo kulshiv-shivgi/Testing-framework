@@ -22,6 +22,7 @@ public class Amazon_sort {
 			driver.get("https://www.amazon.com/");
 			driver.manage().window().maximize();
 			System.out.println("User has landed on the homepage");
+		System.out.println("User has landed on the homepage");
 			driver.manage().timeouts().implicitlyWait(02, TimeUnit.SECONDS);
 			}
 
